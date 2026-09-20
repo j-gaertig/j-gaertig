@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**j-gaertig/j-gaertig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm J. Gae., a student from Bavaria, Germany, interested in software development, AI, and open-source projects.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 Working on private projects and experimenting with new ideas
+- 🤖 Exploring AI, LLMs and agent-based software
+- 🌱 Currently learning **React** and **Flutter**
+- 🤝 Contributing to open-source projects and collaborating with developers
+- 🧪 I like experimenting with new technologies and building things to learn how they work
+
+### 🛠️ Technologies
+
+I'm currently working with / learning:
+
+- **React**
+- **Flutter**
+- **Python**
+- **AI / LLMs**
+
+My interests are constantly changing, so this list isn't exhaustive.
+
+### 🌐 Find me elsewhere
+
+- 🌍 **[Website](https://jgaertig.me/)**
+- 🤗 **[Hugging Face](https://huggingface.co/j-gaertig)**
+
+### 💬 Want to talk?
+
+Ask me about my projects, open-source development, AI, or anything I'm currently building.
