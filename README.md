@@ -18,7 +18,7 @@ A handpicked selection of open-source repositories I've contributed to:
 
 ### 🔭 Currently exploring
 
-- **Flutter**
+- **Flutter / Dart**
 - **Python**
 - **AI / LLMs**
 
