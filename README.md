@@ -1,31 +1,28 @@
 ## Hi there 👋
 
-I'm J. Gae., a student from Bavaria, Germany, interested in software development, AI, and open-source projects.
+I'm J. Gae., a student from Bavaria, Germany. I'm interested in software development, AI, and open-source projects.
 
-### 🚀 What I'm working on
+### 🛠️ Projects
 
-- 🔨 Working on private projects and experimenting with new ideas
-- 🤖 Exploring AI, LLMs and agent-based software
-- 🌱 Currently learning **React** and **Flutter**
-- 🤝 Contributing to open-source projects and collaborating with developers
-- 🧪 I like experimenting with new technologies and building things to learn how they work
+- [**Nexterm-Neo**](https://github.com/j-gaertig/Nexterm-Neo): A supercharged fork of [Nexterm](https://github.com/gnmyt/Nexterm), tailored to my exact needs and built almost entirely by AI agents.
+- [**PlainBase**](https://github.com/j-gaertig/PlainBase): A lightweight, modular core for Minecraft servers. Enable only the features you need, configure them in one place, and skip the bloat.
 
-### 🛠️ Technologies
+_...and plenty of private projects._
 
-I'm currently working with / learning:
+### 🤝 Contributions
 
-- **React**
+A handpicked selection of open-source repositories I've contributed to:
+
+- [**typst-editor**](https://github.com/fl-grtg/typst-editor) _by fl-grtg_: A collaborative Typst editor in the browser, with real-time editing and live preview, all in one self-hosted container.
+- [**Nexterm**](https://github.com/gnmyt/Nexterm) _by gnmyt_: I've contributed code to the official project.
+
+### 🔭 Currently exploring
+
 - **Flutter**
 - **Python**
 - **AI / LLMs**
 
-My interests are constantly changing, so this list isn't exhaustive.
+### 📫 Find me elsewhere
 
-### 🌐 Find me elsewhere
-
-- 🌍 **[Website](https://jgaertig.me/)**
-- 🤗 **[Hugging Face](https://huggingface.co/j-gaertig)**
-
-### 💬 Want to talk?
-
-Ask me about my projects, open-source development, AI, or anything I'm currently building.
+- [**Portfolio**](https://jgaertig.me/)
+- [**Hugging Face**](https://huggingface.co/j-gaertig)
